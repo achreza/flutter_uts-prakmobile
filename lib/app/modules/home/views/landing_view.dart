@@ -8,6 +8,8 @@ class LandingView extends GetView {
     return Scaffold(
       body: Center(
         child: Text(
+
+
           'LandingView is working',
           style: TextStyle(fontSize: 20),
         ),
